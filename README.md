@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VirgilGameDev
+- 👋 Hi, I’m Virgil
 - 👀 I’m interested in Game Dev & Web Dev
-- 🌱 I’m currently learning Python & JS
+- 🌱 Autodidact and MOOC's addict, I’m currently learning Python & JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : virgil@pixrush.com
 
