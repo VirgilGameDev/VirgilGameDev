@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Virgil
-- 👀 I’m interested in Game Dev & Web Dev
-- 🌱 Autodidact and MOOC's addict, I’m currently learning Python & JS
+- 👋 Hi, I’m Virgil!
+- 👀 I’m passionate by Game Dev, as Game Designer and Unity3D Developer.
+- 🌱 Autodidact and MOOC's addict, I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : virgil@pixrush.com
 
